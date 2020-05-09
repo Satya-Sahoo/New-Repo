@@ -7,3 +7,6 @@ added something
 
 
 new Changes made
+
+New bug fix
+
